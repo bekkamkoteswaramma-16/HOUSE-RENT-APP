@@ -1,0 +1,14 @@
+src/
+  components/
+    HouseCard.jsx
+    Navbar.jsx
+  pages/
+    Register.jsx
+    Login.jsx
+    Home.jsx
+    HouseDetails.jsx
+    PostHouse.jsx
+  data/
+    dummyData.js
+  App.jsx
+  main.jsx

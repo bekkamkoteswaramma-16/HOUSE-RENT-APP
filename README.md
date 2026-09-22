@@ -17,7 +17,7 @@ Transform a React application into a Multi-Page Application using React Router D
 - ✅ NavLink with active page highlighting     
 - ✅ Dynamic Navigation menu using.map()
 
-### Module 5 & 6 - Programmatic & Dynamic Routing
+### Module 5 & 6 - Programmatic & Dynamic Routing     
 - ✅ useNavigate() for Login redirect and Back button
 - ✅ Dynamic Routing: `/details/:id` using useParams()
 - ✅ Data passing between pages

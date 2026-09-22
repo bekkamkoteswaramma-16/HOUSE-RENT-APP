@@ -32,7 +32,7 @@ Transform a React application into a Multi-Page Application using React Router D
 - LocalStorage for User Authentication
 - CSS Inline Styling
 
-## 📂 Project Structure
+## 📂 Project Structure    
 src/
 ├── components/
 │ ├── Navbar.jsx

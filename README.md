@@ -14,7 +14,7 @@ Transform a React application into a Multi-Page Application using React Router D
 ### Module 3 & 4 - Layout & Navigation Links
 - ✅ Layout Component with Header, Main Content, Footer
 - ✅ Nested Routing using `<Outlet />`
-- ✅ NavLink with active page highlighting
+- ✅ NavLink with active page highlighting     
 - ✅ Dynamic Navigation menu using.map()
 
 ### Module 5 & 6 - Programmatic & Dynamic Routing

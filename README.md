@@ -7,7 +7,7 @@ Transform a React application into a Multi-Page Application using React Router D
 
 ### Module 1 & 2 - Navigation & Routing
 - ✅ BrowserRouter Implementation    
-- ✅ Routes & Route Definitions for all pages
+- ✅ Routes & Route Definitions for all pages   
 - ✅ Reusable Navbar and Footer
 - ✅ Pages: Home, About, Login, Register, Dashboard, Details
 

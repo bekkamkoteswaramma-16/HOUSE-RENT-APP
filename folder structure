@@ -1,6 +1,6 @@
 src/
   components/
-    HouseCard.jsx
+    HouseCard.jsx 
     Navbar.jsx 
   pages/
     Register.jsx 

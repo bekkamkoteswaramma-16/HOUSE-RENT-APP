@@ -7,7 +7,7 @@ src/
     Login.jsx 
     Home.jsx
     HouseDetails.jsx 
-    PostHouse.jsx
+    PostHouse.jsx 
   data/ 
     dummyData.js 
   App.jsx 

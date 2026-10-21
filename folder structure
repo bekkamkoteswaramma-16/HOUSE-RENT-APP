@@ -8,7 +8,7 @@ src/
     Home.jsx
     HouseDetails.jsx
     PostHouse.jsx
-  data/
+  data/ 
     dummyData.js
   App.jsx 
   main.jsx 

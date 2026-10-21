@@ -9,6 +9,6 @@ src/
     HouseDetails.jsx
     PostHouse.jsx
   data/ 
-    dummyData.js
+    dummyData.js 
   App.jsx 
   main.jsx 

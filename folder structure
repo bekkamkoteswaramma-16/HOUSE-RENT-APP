@@ -10,5 +10,5 @@ src/
     PostHouse.jsx
   data/
     dummyData.js
-  App.jsx
+  App.jsx 
   main.jsx 

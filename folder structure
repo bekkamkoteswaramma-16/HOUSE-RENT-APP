@@ -5,7 +5,7 @@ src/
   pages/
     Register.jsx 
     Login.jsx 
-    Home.jsx
+    Home.jsx 
     HouseDetails.jsx 
     PostHouse.jsx 
   data/ 

@@ -13,7 +13,7 @@ export default function Register() {
     const user = { name, email, password, role }
     localStorage.setItem('currentUser', JSON.stringify(user))
     alert('Registered Successfully!')
-    navigate('/login')
+    navigate('/login') 
   }   
 
   return (

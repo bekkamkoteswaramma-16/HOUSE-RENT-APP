@@ -17,7 +17,7 @@ export default function Register() {
   }   
 
   return (
-    <div style={{padding: '50px', maxWidth: '400px', margin: 'auto'}}>
+    <div style={{padding: '50px', maxWidth: '400px', margin:  'auto'}}>
       <h1 style={{textAlign: 'center', color: 'blue'}}>Register</h1>
       <form onSubmit={handleSubmit}>
         <input 

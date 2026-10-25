@@ -21,7 +21,7 @@ export default function Register() {
       <h1 style={{textAlign: 'center', color: 'blue'}}>Register</h1>
       <form onSubmit={handleSubmit}>
         <input 
-          type="text" 
+          type="text"  
           placeholder="Enter Name" 
           value={name} 
           onChange={(e)=>setName(e.target.value)}

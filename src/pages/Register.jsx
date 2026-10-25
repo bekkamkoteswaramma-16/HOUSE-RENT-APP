@@ -38,7 +38,7 @@ export default function Register() {
         />
         <input 
           type="password" 
-          placeholder="Enter Password" 
+          placeholder="Enter Password"  
           value={password} 
           onChange={(e)=>setPassword(e.target.value)}
           style={{padding: '10px', margin: '10px 0', width: '100%'}}

@@ -20,7 +20,7 @@ export default function Register() {
     <div style={{padding: '50px', maxWidth: '400px', margin:  'auto'}}>
       <h1 style={{textAlign: 'center', color: 'blue'}}>Register</h1>
       <form onSubmit={handleSubmit}>
-        <input 
+        <input  
           type="text"  
           placeholder="Enter Name" 
           value={name} 

@@ -22,7 +22,7 @@ export default function Register() {
       <form onSubmit={handleSubmit}>
         <input  
           type="text"  
-          placeholder="Enter Name" 
+          placeholder="Enter Name"  
           value={name} 
           onChange={(e)=>setName(e.target.value)}
           style={{padding: '10px', margin: '10px 0', width: '100%'}}

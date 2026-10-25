@@ -5,7 +5,7 @@ export default function Register() {
   const [name, setName] = useState('')
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
-  const [role, setRole] = useState('Tenant')
+  const [role, setRole] = useState('Tenant') 
   const navigate = useNavigate()
 
   const handleSubmit = (e) => {

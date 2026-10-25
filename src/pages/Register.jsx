@@ -9,7 +9,7 @@ export default function Register() {
   const navigate = useNavigate()
 
   const handleSubmit = (e) => {
-    e.preventDefault()
+    e.preventDefault() 
     const user = { name, email, password, role }
     localStorage.setItem('currentUser', JSON.stringify(user))
     alert('Registered Successfully!')

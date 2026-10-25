@@ -14,7 +14,7 @@ export default function Register() {
     localStorage.setItem('currentUser', JSON.stringify(user))
     alert('Registered Successfully!')
     navigate('/login')
-  }  
+  }   
 
   return (
     <div style={{padding: '50px', maxWidth: '400px', margin: 'auto'}}>

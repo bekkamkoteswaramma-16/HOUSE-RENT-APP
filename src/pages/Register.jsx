@@ -50,7 +50,7 @@ export default function Register() {
           style={{padding: '10px', margin: '10px 0', width: '100%'}}
         >
           <option value="Tenant">Tenant</option>
-          <option value="Owner">Owner</option>
+          <option value="Owner">Owner</option> 
         </select>
         <br/>
         <button type="submit" style={{padding: '10px 20px', background: 'blue', color: 'white', width: '100%', border: 'none', borderRadius: '5px'}}>
